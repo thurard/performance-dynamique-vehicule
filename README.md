@@ -182,7 +182,7 @@ Tout est en tête de `Battle.m` :
 | `ae.line_offset` | Décalage de la ligne intérieure de la 86 (la corde) | `2.5 m` |
 | `car.kc` | Contre-braquage pilote optionnel (0 = désactivé) | `0` |
 
-💡 Pour voir le **témoin** par toi-même : mettre `grip.fac = 1` (aucune perte
+💡 Pour voir le **témoin** : mettre `grip.fac = 1` (aucune perte
 d'adhérence) et relancer — la FC garde la tête, la 86 ne passe pas.
 
 ---
